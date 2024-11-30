@@ -1,5 +1,4 @@
 # FutureIntern_AI_02
-Image Generation with Pre-trained Models
 
 # Image Generation with Stable Diffusion
 
@@ -11,14 +10,18 @@ This project leverages the **Stable Diffusion** model to generate images from te
 - Displays up to 7 generated images in a gallery format.
 - Utilizes GPU acceleration for faster image generation.
 
+## Try It Out on Google Colab
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1CJP3sF7mBgGqgs1LeT7IBvMSIM3nQMkt?usp=sharing)
+
 ## Demo
 Here’s an example of the interface:
 
-![Image Generation Interface](image.png)
+![Interface Preview](image.png)
 
 ## Prerequisites
-Before running the project, ensure the following are installed:
+Before running the project locally, ensure the following are installed:
 - Python 3.8 or later
 - A CUDA-compatible GPU (optional but recommended for faster performance)
 
 ...
+
